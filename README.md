@@ -70,6 +70,9 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
+<img width="1427" alt="Screenshot 2025-04-30 at 12 28 14 AM" src="https://github.com/user-attachments/assets/ce8f1350-52cd-450e-ba40-cb2b12abc45d" />
+<img width="1427" alt="Screenshot 2025-04-30 at 12 28 01 AM" src="https://github.com/user-attachments/assets/35ebdfe5-8314-4ab6-968b-61ba3799d951" />
+
 
 ## Features
 
